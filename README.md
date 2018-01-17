@@ -35,7 +35,9 @@ Julien De Visscher (Mod's co-founder), Juan Cely Ramos, Elisa della Faille, Aman
 
 #### *Informations techniques:* 
 
-Taille: 50x10 (fixe non extensible)
+Taille: 50x50cm sur 10cm d'épaisseur (fixe non extensible)
+
+Matière: bois de peuplier (solide et léger)
 
 Deux systèmes: cimaises visées sur le module ou cimaises intégrées (pour le système d'accroche)
 
